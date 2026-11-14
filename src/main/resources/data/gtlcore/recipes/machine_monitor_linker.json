@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "laserio:logic_chip"
+    }
+  ],
+  "result": {
+    "item": "gtlcore:machine_monitor_linker"
+  }
+}
